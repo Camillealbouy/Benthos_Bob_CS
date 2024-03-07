@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2020-01-10 16:28:26
+[georeference]
+nrows=2880
+ncols=3840
+xmin=-12.9999999999444
+ymin=42.0000000001429
+xmax=3.00000000094444
+ymax=54.000000001
+projection=+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=-5406.75390625
+maxvalue=3232.5625
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=gebco_2019_n54.0_s40.0_w.14.0_e4.0
